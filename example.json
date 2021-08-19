@@ -1,0 +1,1702 @@
+[
+    {
+        "_id": "PREDICATION_ID:10592604",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0003725",
+            "name": "Arboviruses",
+            "semantic_type": "virs"
+        },
+        "object": {
+            "id": "C0999630",
+            "name": "Lepus capensis",
+            "semantic_type": "mamm"
+        },
+        "pmid": "16530475"
+    },
+    {
+        "_id": "PREDICATION_ID:10592697",
+        "association": {
+            "edge_label": "isa"
+        },
+        "subject": {
+            "_id": "C0039258",
+            "name": "Tahyna virus",
+            "semantic_type": "virs"
+        },
+        "object": {
+            "id": "C0446169",
+            "name": "California Group Viruses",
+            "semantic_type": "virs"
+        },
+        "pmid": "16530475"
+    },
+    {
+        "_id": "PREDICATION_ID:10592728",
+        "association": {
+            "edge_label": "isa"
+        },
+        "subject": {
+            "_id": "C0318627",
+            "name": "Eyach virus",
+            "semantic_type": "virs"
+        },
+        "object": {
+            "id": "C0206590",
+            "name": "Coltivirus",
+            "semantic_type": "virs"
+        },
+        "pmid": "16530475"
+    },
+    {
+        "_id": "PREDICATION_ID:10592759",
+        "association": {
+            "edge_label": "isa"
+        },
+        "subject": {
+            "_id": "C0446169",
+            "name": "California Group Viruses",
+            "semantic_type": "virs"
+        },
+        "object": {
+            "id": "C0003725",
+            "name": "Arboviruses",
+            "semantic_type": "virs"
+        },
+        "pmid": "16530475"
+    },
+    {
+        "_id": "PREDICATION_ID:10592832",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0012634",
+            "name": "Disease",
+            "semantic_type": "dsyn"
+        },
+        "object": {
+            "id": "C0020114",
+            "name": "Human",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530475"
+    },
+    {
+        "_id": "PREDICATION_ID:10592873",
+        "association": {
+            "edge_label": "causes"
+        },
+        "subject": {
+            "_id": "C0042776",
+            "name": "Virus",
+            "semantic_type": "virs"
+        },
+        "object": {
+            "id": "C0012634",
+            "name": "Disease",
+            "semantic_type": "dsyn"
+        },
+        "pmid": "16530475"
+    },
+    {
+        "_id": "PREDICATION_ID:10593057",
+        "association": {
+            "edge_label": "location_of"
+        },
+        "subject": {
+            "_id": "C0999630",
+            "name": "Lepus capensis",
+            "semantic_type": "mamm"
+        },
+        "object": {
+            "id": "C0003241",
+            "name": "Antibodies",
+            "semantic_type": "aapp"
+        },
+        "pmid": "16530475"
+    },
+    {
+        "_id": "PREDICATION_ID:10593208",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C0242210",
+            "name": "Binding Protein",
+            "semantic_type": "bacs"
+        },
+        "object": {
+            "id": "2273",
+            "name": "FHL1",
+            "semantic_type": "aapp"
+        },
+        "pmid": "16530476"
+    },
+    {
+        "_id": "PREDICATION_ID:10593243",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C0056207|3075",
+            "name": "COMPLEMENT FACTOR H|CFH",
+            "semantic_type": "aapp"
+        },
+        "object": {
+            "id": "C0006034",
+            "name": "Borrelia burgdorferi",
+            "semantic_type": "bact"
+        },
+        "pmid": "16530476"
+    },
+    {
+        "_id": "PREDICATION_ID:10593287",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C0242210",
+            "name": "Binding Protein",
+            "semantic_type": "aapp"
+        },
+        "object": {
+            "id": "C0006034",
+            "name": "Borrelia burgdorferi",
+            "semantic_type": "bact"
+        },
+        "pmid": "16530476"
+    },
+    {
+        "_id": "PREDICATION_ID:10593621",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "7523",
+            "name": "XS",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0006034",
+            "name": "Borrelia burgdorferi",
+            "semantic_type": "bact"
+        },
+        "pmid": "16530477"
+    },
+    {
+        "_id": "PREDICATION_ID:10593815",
+        "association": {
+            "edge_label": "produces"
+        },
+        "subject": {
+            "_id": "7523",
+            "name": "XS",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0019878",
+            "name": "homocysteine",
+            "semantic_type": "aapp"
+        },
+        "pmid": "16530477"
+    },
+    {
+        "_id": "PREDICATION_ID:10593856",
+        "association": {
+            "edge_label": "interacts_with"
+        },
+        "subject": {
+            "_id": "C0004611",
+            "name": "Bacteria",
+            "semantic_type": "bact"
+        },
+        "object": {
+            "id": "C0025646",
+            "name": "Methionine",
+            "semantic_type": "aapp"
+        },
+        "pmid": "16530477"
+    },
+    {
+        "_id": "PREDICATION_ID:10593932",
+        "association": {
+            "edge_label": "affects"
+        },
+        "subject": {
+            "_id": "C0031516",
+            "name": "Pheromone",
+            "semantic_type": "bacs"
+        },
+        "object": {
+            "id": "C0017262",
+            "name": "Gene Expression",
+            "semantic_type": "genf"
+        },
+        "pmid": "16530477"
+    },
+    {
+        "_id": "PREDICATION_ID:10594285",
+        "association": {
+            "edge_label": "treats"
+        },
+        "subject": {
+            "_id": "C0718782",
+            "name": "B.S.S.",
+            "semantic_type": "phsu"
+        },
+        "object": {
+            "id": "C0001675",
+            "name": "Adult",
+            "semantic_type": "aggp"
+        },
+        "pmid": "16530478"
+    },
+    {
+        "_id": "PREDICATION_ID:10594435",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C1167395",
+            "name": "host",
+            "semantic_type": "celc"
+        },
+        "object": {
+            "id": "C0042567",
+            "name": "Vertebrates",
+            "semantic_type": "vtbt"
+        },
+        "pmid": "16530478"
+    },
+    {
+        "_id": "PREDICATION_ID:10594472",
+        "association": {
+            "edge_label": "affects"
+        },
+        "subject": {
+            "_id": "C0718782",
+            "name": "B.S.S.",
+            "semantic_type": "inch"
+        },
+        "object": {
+            "id": "C1167395",
+            "name": "host",
+            "semantic_type": "celc"
+        },
+        "pmid": "16530478"
+    },
+    {
+        "_id": "PREDICATION_ID:10594584",
+        "association": {
+            "edge_label": "isa"
+        },
+        "subject": {
+            "_id": "C0162318",
+            "name": "Farm Animals",
+            "semantic_type": "anim"
+        },
+        "object": {
+            "id": "C0003062",
+            "name": "Animals",
+            "semantic_type": "anim"
+        },
+        "pmid": "16530479"
+    },
+    {
+        "_id": "PREDICATION_ID:10594689",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0012634",
+            "name": "Disease",
+            "semantic_type": "dsyn"
+        },
+        "object": {
+            "id": "C0162318",
+            "name": "Farm Animals",
+            "semantic_type": "anim"
+        },
+        "pmid": "16530479"
+    },
+    {
+        "_id": "PREDICATION_ID:10594898",
+        "association": {
+            "edge_label": "uses"
+        },
+        "subject": {
+            "_id": "C0087111",
+            "name": "Therapeutic procedure",
+            "semantic_type": "topp"
+        },
+        "object": {
+            "id": "C1136254",
+            "name": "Microbicides",
+            "semantic_type": "phsu"
+        },
+        "pmid": "16530479"
+    },
+    {
+        "_id": "PREDICATION_ID:10595006",
+        "association": {
+            "edge_label": "uses"
+        },
+        "subject": {
+            "_id": "C0087111",
+            "name": "Therapeutic procedure",
+            "semantic_type": "topp"
+        },
+        "object": {
+            "id": "C1136254",
+            "name": "Microbicides",
+            "semantic_type": "phsu"
+        },
+        "pmid": "16530479"
+    },
+    {
+        "_id": "PREDICATION_ID:10595160",
+        "association": {
+            "edge_label": "isa"
+        },
+        "subject": {
+            "_id": "C0059374",
+            "name": "enrofloxacin",
+            "semantic_type": "antb"
+        },
+        "object": {
+            "id": "C0949665",
+            "name": "Fluoroquinolones",
+            "semantic_type": "orch"
+        },
+        "pmid": "16530479"
+    },
+    {
+        "_id": "PREDICATION_ID:10595193",
+        "association": {
+            "edge_label": "coexists_with"
+        },
+        "subject": {
+            "_id": "C0059374",
+            "name": "enrofloxacin",
+            "semantic_type": "antb"
+        },
+        "object": {
+            "id": "C0013227",
+            "name": "Pharmaceutical Preparations",
+            "semantic_type": "phsu"
+        },
+        "pmid": "16530479"
+    },
+    {
+        "_id": "PREDICATION_ID:10595361",
+        "association": {
+            "edge_label": "treats"
+        },
+        "subject": {
+            "_id": "C0180153",
+            "name": "Covers",
+            "semantic_type": "medd"
+        },
+        "object": {
+            "id": "C0014061",
+            "name": "Tick-Borne Encephalitis",
+            "semantic_type": "dsyn"
+        },
+        "pmid": "16530480"
+    },
+    {
+        "_id": "PREDICATION_ID:10595474",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0004927",
+            "name": "Behavior",
+            "semantic_type": "inbe"
+        },
+        "object": {
+            "id": "C0020114",
+            "name": "Human",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530480"
+    },
+    {
+        "_id": "PREDICATION_ID:10595632",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0021311",
+            "name": "Infection",
+            "semantic_type": "dsyn"
+        },
+        "object": {
+            "id": "C0001675",
+            "name": "Adult",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530481"
+    },
+    {
+        "_id": "PREDICATION_ID:10595725",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0015967",
+            "name": "Fever",
+            "semantic_type": "fndg"
+        },
+        "object": {
+            "id": "C0030705",
+            "name": "Patients",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530481"
+    },
+    {
+        "_id": "PREDICATION_ID:10595759",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0015967",
+            "name": "Fever",
+            "semantic_type": "fndg"
+        },
+        "object": {
+            "id": "C0086287",
+            "name": "Females",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530481"
+    },
+    {
+        "_id": "PREDICATION_ID:10595794",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0015967",
+            "name": "Fever",
+            "semantic_type": "fndg"
+        },
+        "object": {
+            "id": "C0086582",
+            "name": "Males",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530481"
+    },
+    {
+        "_id": "PREDICATION_ID:10595906",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C0012931",
+            "name": "Recombinant DNA",
+            "semantic_type": "bacs"
+        },
+        "object": {
+            "id": "C1552130",
+            "name": "16s",
+            "semantic_type": "bpoc"
+        },
+        "pmid": "16530481"
+    },
+    {
+        "_id": "PREDICATION_ID:10595985",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0162699",
+            "name": "Tick-Borne Infections",
+            "semantic_type": "dsyn"
+        },
+        "object": {
+            "id": "C0237401",
+            "name": "Individual",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530481"
+    },
+    {
+        "_id": "PREDICATION_ID:10596143",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0017677",
+            "name": "Glossitis, Benign Migratory",
+            "semantic_type": "dsyn"
+        },
+        "object": {
+            "id": "C0030705",
+            "name": "Patients",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530481"
+    },
+    {
+        "_id": "PREDICATION_ID:10596167",
+        "association": {
+            "edge_label": "isa"
+        },
+        "subject": {
+            "_id": "C0017677",
+            "name": "Glossitis, Benign Migratory",
+            "semantic_type": "dsyn"
+        },
+        "object": {
+            "id": "C1457887",
+            "name": "Symptoms",
+            "semantic_type": "sosy"
+        },
+        "pmid": "16530481"
+    },
+    {
+        "_id": "PREDICATION_ID:10596199",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0017677",
+            "name": "Glossitis, Benign Migratory",
+            "semantic_type": "dsyn"
+        },
+        "object": {
+            "id": "C0030705",
+            "name": "Patients",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530481"
+    },
+    {
+        "_id": "PREDICATION_ID:10596244",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C1457887",
+            "name": "Symptoms",
+            "semantic_type": "sosy"
+        },
+        "object": {
+            "id": "C0030705",
+            "name": "Patients",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530481"
+    },
+    {
+        "_id": "PREDICATION_ID:10596294",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0024198",
+            "name": "Lyme Disease",
+            "semantic_type": "dsyn"
+        },
+        "object": {
+            "id": "C0030705",
+            "name": "Patients",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530481"
+    },
+    {
+        "_id": "PREDICATION_ID:10596383",
+        "association": {
+            "edge_label": "treats"
+        },
+        "subject": {
+            "_id": "C0011900",
+            "name": "Diagnosis",
+            "semantic_type": "hlca"
+        },
+        "object": {
+            "id": "C0030705",
+            "name": "Patients",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530481"
+    },
+    {
+        "_id": "PREDICATION_ID:10596492",
+        "association": {
+            "edge_label": "diagnoses"
+        },
+        "subject": {
+            "_id": "C0079603",
+            "name": "Immunofluorescence",
+            "semantic_type": "lbpr"
+        },
+        "object": {
+            "id": "C0021311",
+            "name": "Infection",
+            "semantic_type": "dsyn"
+        },
+        "pmid": "16530481"
+    },
+    {
+        "_id": "PREDICATION_ID:10596565",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0024198",
+            "name": "Lyme Disease",
+            "semantic_type": "dsyn"
+        },
+        "object": {
+            "id": "C0030705",
+            "name": "Patients",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530481"
+    },
+    {
+        "_id": "PREDICATION_ID:10596660",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0024198",
+            "name": "Lyme Disease",
+            "semantic_type": "dsyn"
+        },
+        "object": {
+            "id": "C0237401",
+            "name": "Individual",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530481"
+    },
+    {
+        "_id": "PREDICATION_ID:10596772",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0012634",
+            "name": "Disease",
+            "semantic_type": "dsyn"
+        },
+        "object": {
+            "id": "C0001675",
+            "name": "Adult",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530481"
+    },
+    {
+        "_id": "PREDICATION_ID:10596805",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0743841",
+            "name": "Disorder characterized by fever",
+            "semantic_type": "dsyn"
+        },
+        "object": {
+            "id": "C0001675",
+            "name": "Adult",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530481"
+    },
+    {
+        "_id": "PREDICATION_ID:10597199",
+        "association": {
+            "edge_label": "compared_with"
+        },
+        "subject": {
+            "_id": "C0638611",
+            "name": "4,5-dibromo-2-pyrrolic acid",
+            "semantic_type": "orch"
+        },
+        "object": {
+            "id": "C0089701",
+            "name": "1-oleoyl-2-stearoylphosphatidylcholine",
+            "semantic_type": "lipd"
+        },
+        "pmid": "16530482"
+    },
+    {
+        "_id": "PREDICATION_ID:10597287",
+        "association": {
+            "edge_label": "inhibits"
+        },
+        "subject": {
+            "_id": "C0638611",
+            "name": "4,5-dibromo-2-pyrrolic acid",
+            "semantic_type": "orch"
+        },
+        "object": {
+            "id": "C0012854",
+            "name": "DNA",
+            "semantic_type": "bacs"
+        },
+        "pmid": "16530482"
+    },
+    {
+        "_id": "PREDICATION_ID:10597421",
+        "association": {
+            "edge_label": "interacts_with"
+        },
+        "subject": {
+            "_id": "C0638611",
+            "name": "4,5-dibromo-2-pyrrolic acid",
+            "semantic_type": "orch"
+        },
+        "object": {
+            "id": "C0456981",
+            "name": "Specific antigen",
+            "semantic_type": "imft"
+        },
+        "pmid": "16530482"
+    },
+    {
+        "_id": "PREDICATION_ID:10597542",
+        "association": {
+            "edge_label": "affects"
+        },
+        "subject": {
+            "_id": "C0027895",
+            "name": "Neuropeptides",
+            "semantic_type": "aapp"
+        },
+        "object": {
+            "id": "C0021368",
+            "name": "Inflammation",
+            "semantic_type": "patf"
+        },
+        "pmid": "16530483"
+    },
+    {
+        "_id": "PREDICATION_ID:10597633",
+        "association": {
+            "edge_label": "causes"
+        },
+        "subject": {
+            "_id": "C1504598",
+            "name": "Crosstalk",
+            "semantic_type": "inpo"
+        },
+        "object": {
+            "id": "C0004368",
+            "name": "Autoimmunity",
+            "semantic_type": "patf"
+        },
+        "pmid": "16530483"
+    },
+    {
+        "_id": "PREDICATION_ID:10597756",
+        "association": {
+            "edge_label": "interacts_with"
+        },
+        "subject": {
+            "_id": "C0027893|4852",
+            "name": "neuropeptide Y|NPY",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0039194",
+            "name": "T-Lymphocyte",
+            "semantic_type": "cell"
+        },
+        "pmid": "16530483"
+    },
+    {
+        "_id": "PREDICATION_ID:10597803",
+        "association": {
+            "edge_label": "stimulates"
+        },
+        "subject": {
+            "_id": "C0027893|4852",
+            "name": "neuropeptide Y|NPY",
+            "semantic_type": "aapp"
+        },
+        "object": {
+            "id": "C0003315",
+            "name": "Antigen-Presenting Cells",
+            "semantic_type": "cell"
+        },
+        "pmid": "16530483"
+    },
+    {
+        "_id": "PREDICATION_ID:10597925",
+        "association": {
+            "edge_label": "location_of"
+        },
+        "subject": {
+            "_id": "C0024660",
+            "name": "Mammals",
+            "semantic_type": "mamm"
+        },
+        "object": {
+            "id": "C0670896",
+            "name": "Toll-like receptors",
+            "semantic_type": "aapp"
+        },
+        "pmid": "16530484"
+    },
+    {
+        "_id": "PREDICATION_ID:10598015",
+        "association": {
+            "edge_label": "location_of"
+        },
+        "subject": {
+            "_id": "C0034850",
+            "name": "Endosomes",
+            "semantic_type": "celc"
+        },
+        "object": {
+            "id": "C1185625",
+            "name": "Compartments",
+            "semantic_type": "bsoj"
+        },
+        "pmid": "16530484"
+    },
+    {
+        "_id": "PREDICATION_ID:10598051",
+        "association": {
+            "edge_label": "location_of"
+        },
+        "subject": {
+            "_id": "C0699040",
+            "name": "Cell surface",
+            "semantic_type": "celc"
+        },
+        "object": {
+            "id": "C0597357",
+            "name": "receptor",
+            "semantic_type": "aapp"
+        },
+        "pmid": "16530484"
+    },
+    {
+        "_id": "PREDICATION_ID:10598148",
+        "association": {
+            "edge_label": "interacts_with"
+        },
+        "subject": {
+            "_id": "C1099354",
+            "name": "RNA, Small Interfering",
+            "semantic_type": "bacs"
+        },
+        "object": {
+            "id": "C0035549",
+            "name": "Ribose",
+            "semantic_type": "bacs"
+        },
+        "pmid": "16530484"
+    },
+    {
+        "_id": "PREDICATION_ID:10598263",
+        "association": {
+            "edge_label": "causes"
+        },
+        "subject": {
+            "_id": "C0812258|1869|7332",
+            "name": "E2F1 gene|E2F1|UBE2L3",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0162638",
+            "name": "Apoptosis",
+            "semantic_type": "celf"
+        },
+        "pmid": "16530485"
+    },
+    {
+        "_id": "PREDICATION_ID:10598476",
+        "association": {
+            "edge_label": "interacts_with"
+        },
+        "subject": {
+            "_id": "C0812258|1869|7332",
+            "name": "E2F1 gene|E2F1|UBE2L3",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0013227",
+            "name": "Pharmaceutical Preparations",
+            "semantic_type": "phsu"
+        },
+        "pmid": "16530485"
+    },
+    {
+        "_id": "PREDICATION_ID:10598517",
+        "association": {
+            "edge_label": "causes"
+        },
+        "subject": {
+            "_id": "C0812258|1869|7332",
+            "name": "E2F1 gene|E2F1|UBE2L3",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0162638",
+            "name": "Apoptosis",
+            "semantic_type": "celf"
+        },
+        "pmid": "16530485"
+    },
+    {
+        "_id": "PREDICATION_ID:10599076",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0017262",
+            "name": "Gene Expression",
+            "semantic_type": "genf"
+        },
+        "object": {
+            "id": "C0998896",
+            "name": "Scorpaenidae",
+            "semantic_type": "fish"
+        },
+        "pmid": "16530488"
+    },
+    {
+        "_id": "PREDICATION_ID:10599190",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C0042896",
+            "name": "Vitellogenins",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0998896",
+            "name": "Scorpaenidae",
+            "semantic_type": "fish"
+        },
+        "pmid": "16530488"
+    },
+    {
+        "_id": "PREDICATION_ID:10599329",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C0042896",
+            "name": "Vitellogenins",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0998896",
+            "name": "Scorpaenidae",
+            "semantic_type": "fish"
+        },
+        "pmid": "16530488"
+    },
+    {
+        "_id": "PREDICATION_ID:10599368",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C0042896",
+            "name": "Vitellogenins",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0998896",
+            "name": "Scorpaenidae",
+            "semantic_type": "fish"
+        },
+        "pmid": "16530488"
+    },
+    {
+        "_id": "PREDICATION_ID:10599395",
+        "association": {
+            "edge_label": "affects"
+        },
+        "subject": {
+            "_id": "C0042896",
+            "name": "Vitellogenins",
+            "semantic_type": "aapp"
+        },
+        "object": {
+            "id": "C0332124",
+            "name": "No past history",
+            "semantic_type": "fndg"
+        },
+        "pmid": "16530488"
+    },
+    {
+        "_id": "PREDICATION_ID:10599484",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C0042896",
+            "name": "Vitellogenins",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0998896",
+            "name": "Scorpaenidae",
+            "semantic_type": "fish"
+        },
+        "pmid": "16530488"
+    },
+    {
+        "_id": "PREDICATION_ID:10599560",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C0042896",
+            "name": "Vitellogenins",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0998896",
+            "name": "Scorpaenidae",
+            "semantic_type": "fish"
+        },
+        "pmid": "16530488"
+    },
+    {
+        "_id": "PREDICATION_ID:10599602",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C0042896",
+            "name": "Vitellogenins",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0998896",
+            "name": "Scorpaenidae",
+            "semantic_type": "fish"
+        },
+        "pmid": "16530488"
+    },
+    {
+        "_id": "PREDICATION_ID:10599653",
+        "association": {
+            "edge_label": "treats"
+        },
+        "subject": {
+            "_id": "C1533685",
+            "name": "Injection procedure",
+            "semantic_type": "topp"
+        },
+        "object": {
+            "id": "C0015780",
+            "name": "Female",
+            "semantic_type": "orga"
+        },
+        "pmid": "16530488"
+    },
+    {
+        "_id": "PREDICATION_ID:10599747",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C0042896",
+            "name": "Vitellogenins",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0998896",
+            "name": "Scorpaenidae",
+            "semantic_type": "fish"
+        },
+        "pmid": "16530488"
+    },
+    {
+        "_id": "PREDICATION_ID:10599840",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C0042896",
+            "name": "Vitellogenins",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0998896",
+            "name": "Scorpaenidae",
+            "semantic_type": "fish"
+        },
+        "pmid": "16530488"
+    },
+    {
+        "_id": "PREDICATION_ID:10600338",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C1334043",
+            "name": "Homologous Gene",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0998689",
+            "name": "Hemicentrotus pulcherrimus",
+            "semantic_type": "invt"
+        },
+        "pmid": "16530490"
+    },
+    {
+        "_id": "PREDICATION_ID:10600422",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C0751608",
+            "name": "cDNA Library",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0017199",
+            "name": "Gastrula",
+            "semantic_type": "emst"
+        },
+        "pmid": "16530490"
+    },
+    {
+        "_id": "PREDICATION_ID:10600456",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C1334043",
+            "name": "Homologous Gene",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0998689",
+            "name": "Hemicentrotus pulcherrimus",
+            "semantic_type": "invt"
+        },
+        "pmid": "16530490"
+    },
+    {
+        "_id": "PREDICATION_ID:10600542",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C1281743",
+            "name": "Blastocyst structure",
+            "semantic_type": "emst"
+        },
+        "object": {
+            "id": "C0162415",
+            "name": "Mesenchyma",
+            "semantic_type": "emst"
+        },
+        "pmid": "16530490"
+    },
+    {
+        "_id": "PREDICATION_ID:10600645",
+        "association": {
+            "edge_label": "uses"
+        },
+        "subject": {
+            "_id": "C0162788",
+            "name": "In Situ Hybridization",
+            "semantic_type": "lbpr"
+        },
+        "object": {
+            "id": "C0181909",
+            "name": "Mounts",
+            "semantic_type": "medd"
+        },
+        "pmid": "16530490"
+    },
+    {
+        "_id": "PREDICATION_ID:10600813",
+        "association": {
+            "edge_label": "location_of"
+        },
+        "subject": {
+            "_id": "C0013935",
+            "name": "Embryo",
+            "semantic_type": "emst"
+        },
+        "object": {
+            "id": "5539",
+            "name": "PPY",
+            "semantic_type": "aapp"
+        },
+        "pmid": "16530491"
+    },
+    {
+        "_id": "PREDICATION_ID:10600845",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C0021358",
+            "name": "Inferior Colliculus",
+            "semantic_type": "bpoc"
+        },
+        "object": {
+            "id": "C0086582",
+            "name": "Males",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530491"
+    },
+    {
+        "_id": "PREDICATION_ID:10600962",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "5539",
+            "name": "PPY",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0026591",
+            "name": "Mothers",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530491"
+    },
+    {
+        "_id": "PREDICATION_ID:10600997",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C0007634",
+            "name": "Cells",
+            "semantic_type": "cell"
+        },
+        "object": {
+            "id": "C0028661",
+            "name": "Nurses",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530491"
+    },
+    {
+        "_id": "PREDICATION_ID:10601037",
+        "association": {
+            "edge_label": "location_of"
+        },
+        "subject": {
+            "_id": "C0010834",
+            "name": "Cytoplasm",
+            "semantic_type": "celc"
+        },
+        "object": {
+            "id": "5539",
+            "name": "PPY",
+            "semantic_type": "aapp"
+        },
+        "pmid": "16530491"
+    },
+    {
+        "_id": "PREDICATION_ID:10601150",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C0010834",
+            "name": "Cytoplasm",
+            "semantic_type": "celc"
+        },
+        "object": {
+            "id": "C0037863",
+            "name": "Spermatocytes",
+            "semantic_type": "cell"
+        },
+        "pmid": "16530491"
+    },
+    {
+        "_id": "PREDICATION_ID:10601184",
+        "association": {
+            "edge_label": "location_of"
+        },
+        "subject": {
+            "_id": "C0021358",
+            "name": "Inferior Colliculus",
+            "semantic_type": "bpoc"
+        },
+        "object": {
+            "id": "5539",
+            "name": "PPY",
+            "semantic_type": "aapp"
+        },
+        "pmid": "16530491"
+    },
+    {
+        "_id": "PREDICATION_ID:10601265",
+        "association": {
+            "edge_label": "part_of"
+        },
+        "subject": {
+            "_id": "C0007610",
+            "name": "Cell Nucleus",
+            "semantic_type": "celc"
+        },
+        "object": {
+            "id": "C0007634",
+            "name": "Cells",
+            "semantic_type": "cell"
+        },
+        "pmid": "16530491"
+    },
+    {
+        "_id": "PREDICATION_ID:10601441",
+        "association": {
+            "edge_label": "location_of"
+        },
+        "subject": {
+            "_id": "C1185738",
+            "name": "Column",
+            "semantic_type": "bpoc"
+        },
+        "object": {
+            "id": "C0036679",
+            "name": "Diastasis",
+            "semantic_type": "patf"
+        },
+        "pmid": "16530492"
+    },
+    {
+        "_id": "PREDICATION_ID:10601592",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0031327",
+            "name": "Drug Kinetics",
+            "semantic_type": "phsf"
+        },
+        "object": {
+            "id": "C0034693",
+            "name": "Rattus norvegicus",
+            "semantic_type": "mamm"
+        },
+        "pmid": "16530492"
+    },
+    {
+        "_id": "PREDICATION_ID:10601714",
+        "association": {
+            "edge_label": "isa"
+        },
+        "subject": {
+            "_id": "C0017973",
+            "name": "Glycosaminoglycans",
+            "semantic_type": "bacs"
+        },
+        "object": {
+            "id": "C0032594",
+            "name": "Polysaccharides",
+            "semantic_type": "carb"
+        },
+        "pmid": "16530493"
+    },
+    {
+        "_id": "PREDICATION_ID:10601803",
+        "association": {
+            "edge_label": "location_of"
+        },
+        "subject": {
+            "_id": "C0015350",
+            "name": "Extracellular Matrix",
+            "semantic_type": "tisu"
+        },
+        "object": {
+            "id": "C0033692",
+            "name": "Proteoglycan",
+            "semantic_type": "aapp"
+        },
+        "pmid": "16530493"
+    },
+    {
+        "_id": "PREDICATION_ID:10601941",
+        "association": {
+            "edge_label": "converts_to"
+        },
+        "subject": {
+            "_id": "C0017346",
+            "name": "GAG Gene",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0017973",
+            "name": "Glycosaminoglycans",
+            "semantic_type": "carb"
+        },
+        "pmid": "16530493"
+    },
+    {
+        "_id": "PREDICATION_ID:10601994",
+        "association": {
+            "edge_label": "converts_to"
+        },
+        "subject": {
+            "_id": "C0017346",
+            "name": "GAG Gene",
+            "semantic_type": "gngm"
+        },
+        "object": {
+            "id": "C0028959",
+            "name": "Oligosaccharides",
+            "semantic_type": "carb"
+        },
+        "pmid": "16530493"
+    },
+    {
+        "_id": "PREDICATION_ID:10602026",
+        "association": {
+            "edge_label": "uses"
+        },
+        "subject": {
+            "_id": "C0013855",
+            "name": "Electrophoresis",
+            "semantic_type": "lbpr"
+        },
+        "object": {
+            "id": "C0204514",
+            "name": "Structural analysis",
+            "semantic_type": "topp"
+        },
+        "pmid": "16530493"
+    },
+    {
+        "_id": "PREDICATION_ID:10602109",
+        "association": {
+            "edge_label": "interacts_with"
+        },
+        "subject": {
+            "_id": "C0014442",
+            "name": "Enzymes",
+            "semantic_type": "enzy"
+        },
+        "object": {
+            "id": "C0017973",
+            "name": "Glycosaminoglycans",
+            "semantic_type": "bacs"
+        },
+        "pmid": "16530493"
+    },
+    {
+        "_id": "PREDICATION_ID:10602147",
+        "association": {
+            "edge_label": "interacts_with"
+        },
+        "subject": {
+            "_id": "C0220806",
+            "name": "Chemicals",
+            "semantic_type": "chem"
+        },
+        "object": {
+            "id": "C0017973",
+            "name": "Glycosaminoglycans",
+            "semantic_type": "bacs"
+        },
+        "pmid": "16530493"
+    },
+    {
+        "_id": "PREDICATION_ID:10602185",
+        "association": {
+            "edge_label": "converts_to"
+        },
+        "subject": {
+            "_id": "C0017973",
+            "name": "Glycosaminoglycans",
+            "semantic_type": "bacs"
+        },
+        "object": {
+            "id": "C0012611",
+            "name": "Disaccharides",
+            "semantic_type": "carb"
+        },
+        "pmid": "16530493"
+    },
+    {
+        "_id": "PREDICATION_ID:10602215",
+        "association": {
+            "edge_label": "converts_to"
+        },
+        "subject": {
+            "_id": "C0017973",
+            "name": "Glycosaminoglycans",
+            "semantic_type": "bacs"
+        },
+        "object": {
+            "id": "C0028959",
+            "name": "Oligosaccharides",
+            "semantic_type": "carb"
+        },
+        "pmid": "16530493"
+    },
+    {
+        "_id": "PREDICATION_ID:10602419",
+        "association": {
+            "edge_label": "process_of"
+        },
+        "subject": {
+            "_id": "C0011847",
+            "name": "Diabetes",
+            "semantic_type": "dsyn"
+        },
+        "object": {
+            "id": "C0030705",
+            "name": "Patients",
+            "semantic_type": "humn"
+        },
+        "pmid": "16530494"
+    },
+    {
+        "_id": "PREDICATION_ID:10602491",
+        "association": {
+            "edge_label": "uses"
+        },
+        "subject": {
+            "_id": "C1511790",
+            "name": "Detection",
+            "semantic_type": "topp"
+        },
+        "object": {
+            "id": "C1533168",
+            "name": "Sorbate",
+            "semantic_type": "phsu"
+        },
+        "pmid": "16530494"
+    },
+    {
+        "_id": "PREDICATION_ID:10602733",
+        "association": {
+            "edge_label": "isa"
+        },
+        "subject": {
+            "_id": "C0004239",
+            "name": "Atrial Flutter",
+            "semantic_type": "patf"
+        },
+        "object": {
+            "id": "C0039231",
+            "name": "Tachycardia",
+            "semantic_type": "patf"
+        },
+        "pmid": "16530495"
+    },
+    {
+        "_id": "PREDICATION_ID:10602764",
+        "association": {
+            "edge_label": "isa"
+        },
+        "subject": {
+            "_id": "C0039234",
+            "name": "Tachycardia, Ectopic Atrial",
+            "semantic_type": "dsyn"
+        },
+        "object": {
+            "id": "C0039231",
+            "name": "Tachycardia",
+            "semantic_type": "patf"
+        },
+        "pmid": "16530495"
+    },
+    {
+        "_id": "PREDICATION_ID:10602804",
+        "association": {
+            "edge_label": "isa"
+        },
+        "subject": {
+            "_id": "C0039235",
+            "name": "Tachycardia, Ectopic Junctional",
+            "semantic_type": "dsyn"
+        },
+        "object": {
+            "id": "C0039231",
+            "name": "Tachycardia",
+            "semantic_type": "patf"
+        },
+        "pmid": "16530495"
+    },
+    {
+        "_id": "PREDICATION_ID:10602837",
+        "association": {
+            "edge_label": "isa"
+        },
+        "subject": {
+            "_id": "C0042514",
+            "name": "Tachycardia, Ventricular",
+            "semantic_type": "patf"
+        },
+        "object": {
+            "id": "C0039231",
+            "name": "Tachycardia",
+            "semantic_type": "patf"
+        },
+        "pmid": "16530495"
+    },
+    {
+        "_id": "PREDICATION_ID:10603013",
+        "association": {
+            "edge_label": "associated_with"
+        },
+        "subject": {
+            "_id": "C0020063|5741",
+            "name": "PTH protein, human|PTH",
+            "semantic_type": "aapp"
+        },
+        "object": {
+            "id": "C0029463",
+            "name": "osteosarcoma",
+            "semantic_type": "neop"
+        },
+        "pmid": "16530496"
+    },
+    {
+        "_id": "PREDICATION_ID:10603029",
+        "association": {
+            "edge_label": "isa"
+        },
+        "subject": {
+            "_id": "C0029463",
+            "name": "osteosarcoma",
+            "semantic_type": "neop"
+        },
+        "object": {
+            "id": "C0006826",
+            "name": "Malignant Neoplasms",
+            "semantic_type": "neop"
+        },
+        "pmid": "16530496"
+    },
+    {
+        "_id": "PREDICATION_ID:10603069",
+        "association": {
+            "edge_label": "associated_with"
+        },
+        "subject": {
+            "_id": "C0020063|5741",
+            "name": "PTH protein, human|PTH",
+            "semantic_type": "aapp"
+        },
+        "object": {
+            "id": "C0006826",
+            "name": "Malignant Neoplasms",
+            "semantic_type": "neop"
+        },
+        "pmid": "16530496"
+    }
+]
